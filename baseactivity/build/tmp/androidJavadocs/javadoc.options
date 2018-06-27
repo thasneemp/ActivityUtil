@@ -1,0 +1,6 @@
+-classpath 'D:\\SDK\\platforms\\android-28\\android.jar'
+-d 'D:\\github\\librery\\baseactivity\\build\\docs\\javadoc'
+-doctitle 'baseactivity API'
+-quiet 
+-windowtitle 'baseactivity API'
+'D:\\github\\librery\\baseactivity\\src\\main\\java\\com\\example\\baseactivity\\BaseActivity.java'
